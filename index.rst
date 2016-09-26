@@ -4,4 +4,4 @@
    :maxdepth: 2
    :caption: User Documentation
 
-   staff-bios
+   leo.md
