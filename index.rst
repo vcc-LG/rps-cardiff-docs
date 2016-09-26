@@ -1,7 +1,10 @@
+Welcome to RPS Cardiff
+========================
+
 .. _user-docs:
 
 .. toctree::
    :maxdepth: 2
    :caption: User Documentation
 
-   leo.md
+   staff-bios/leo.md
