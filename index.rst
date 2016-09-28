@@ -35,7 +35,7 @@ The main documentation for the site is organized into these main sections:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Our processes and procedures
+   :caption: About us
    
    about-bios
    about-values
