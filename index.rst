@@ -1,10 +1,10 @@
-Welcome to RPS Cardiff
+Welcome to Cardiff
 ========================
 
-`RPS Cardiff Docs`_ hosts documentation for the Radiation Protection Service Cardiff. We believe that we should operate with as much transparency and clarity as possible, not only to allow our clients to inspect our working practices, but to force us to work to the highest possible standards. 
+`Cardiff Docs`_ hosts documentation for the __ Cardiff. We believe that we should operate with as much transparency and clarity as possible, not only to allow our clients to inspect our working practices, but to force us to work to the highest possible standards. 
 
 
-.. _RPS Cardiff Docs: http://www.rpscardiff.co.uk/
+.. _Cardiff Docs: http://www.rpscardiff.co.uk/
 
 The main documentation for the site is organized into these main sections:
 
