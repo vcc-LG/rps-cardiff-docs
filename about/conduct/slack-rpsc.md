@@ -19,7 +19,36 @@ Slack should be used for work-based communication where an instant response is d
 - Announce to the team that you're running late to a meeting.
 - Inform a team member working offsite that they left some kit behind.
 - Note down an idea for a presentation to gauge interest in a collaboration.
+- Search the #car channel to see who 
+- Thank a team member for their hard work during the day.
+
+Try to keep conversations centered around work, and use the most appropriate channel for communication (e.g. announce a meeting in the #meetings or #announcements channel, rather than the #general channel).
 
 ## What Slack shouldn't be used for
+
+Slack is a work-based communication tool, and so the standards expected of you in work with regards to conduct and the sharing of information applies equally in the Slack environment. Whilst the tone of Slack messaging is usually relaxed and conversational, and the service is secure to the same extent as most forms of instant messaging, it should be viewed as an essentially public forum rather than as an extension of your Outlook. Never use Slack to:
+
+- Share or discuss patient identifiable information, confidential matters, or content that would violate any of the policies applicable to you as a member of Velindre NHS Trust staff.
+- Abuse, exclude, or insult colleagues whether they can view the messages in which they're being discussed or not. The policies governing your behaviour in work apply equally in Slack.
+- Discuss sensitive personal matters, or hold conversations that would be considered inappropriate at work.
+
+## Expectations
+
+There is no expectation on you to use Slack outside of standard working hours, and there is no expectation of you to use Slack when your full concentration is required for other work. Set your status to 'away' or 'do not disturb' whenever you wish.
+
+Try to respond to messages that involve you directly, and try to offer help to other users if you think you can. You are not expected to respond to messages immediately.
+
+If the conversation would be easier to hold in real life, then pick up the phone or walk down the corridor. Like email, Slack isn't a replacement for face-to-face communication.
+
+Communicate clearly and concisely. Use friendly, open, and inclusive language and be constructive. Always assume that messages from others are sent with the best intentions.
+
+If Slack isn't improving the quality of your output, talk to another team member for advice about different ways of using it. If it still isn't working for you, uninstall it and inform others that you're accessible by other means.
+
+
+
+
+
+
+
 
 
