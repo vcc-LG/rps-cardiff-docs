@@ -1,7 +1,7 @@
 # The Use of Slack in RPS Cardiff
 
 # Introduction
-Slack is a popular team messaging application that RPS Cardiff use to improve efficiency, productivity, and to help our team to share ideas. 
+Slack is a popular team messaging application that RPS Cardiff team members use to improve efficiency, productivity, and to help our team to share ideas. 
 
 This document describes how we use it, and the rules governing its use.
 
